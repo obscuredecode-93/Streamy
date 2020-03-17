@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "MyStream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "I Created this stream",
+      "description": "This stream was signed by me  aaaa",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this  on the form page!!",
+      "userId": "116030383921242445247",
+      "id": 5
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this  on the form page!!",
+      "userId": "116030383921242445247",
+      "id": 6
+    },
+    {
+      "title": "Pogran",
+      "description": "Nara",
+      "userId": "116030383921242445247",
+      "id": 7
+    },
+    {
+      "title": "Reuse!",
+      "description": "Refactor!",
+      "userId": "116030383921242445247",
+      "id": 8
+    }
+  ]
+}
